@@ -280,4 +280,78 @@ nav .icon-burger .line {
   /* ending about us */
 
   /* starting Best course */
+  .first-icon{
+	color: #40C1EC;
+	font-weight: 700;
+  }
+  .courses-container-home{
+	  margin-top: 180px;
+  }
+  .courses-main-home-container{
+	  display: flex;
+	  background-color: #102D47;
+	  height: 600px;
+  }
+  .courses-card-home{
+	  margin-top: -400px;
+  }
+  .courses-card-home .card-group{
+	width: 1100px;
+	padding: 10px;
+	text-align: center;
+	margin: auto;
+	border-radius: 10px;
+  }
+  .courses-card-home .card-item{
+	  padding: 10px;
+	  background-color: white;
+	  border-radius: 5px;
+	  box-shadow: 0 5px 20px black;
+	  height: 500px;
+	  width: 330px;
+	  margin: auto;
+	  position: relative;
+  }
+
+  .card-item .card-footer{
+	  position: absolute;
+	  bottom: 0;
+	  left: 0;
+  }
+  .card-item img{
+	height: 250px;
+	width: 300px;
+  }
+  .card-body{
+	  text-align: left;
+  }
+  .card-body .card-title{
+	  font-weight: 700;
+  }
   
+/* starting Learning */
+.home-learning{
+	margin-top: 100px;
+}
+.learning-picture-text .learning-picture{
+	width: 370px;
+	height: 470px;
+	background-image: url(../images/card-img.jpg);
+	background-repeat: no-repeat;
+	background-size: 370px 470px;
+}
+.learning-text{
+	width: 280px;
+	height: 260px;
+	background-color: #40C1EC;
+	border-radius: 10px;
+	padding: auto;
+	margin-top: -200px;
+	margin-left: -100px;
+}
+.learning-icon-text{
+	display: flex;
+	padding: 10px;
+	justify-content: center;
+
+}
