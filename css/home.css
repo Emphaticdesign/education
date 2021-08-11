@@ -642,6 +642,7 @@ nav .icon-burger .line {
 	border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
 	color: #40C1EC;
 	padding: 14px 0 0 16px;
+	margin-right: 15px;
 }
 
 .achivment-div .flat-icon:hover {
@@ -652,6 +653,30 @@ nav .icon-burger .line {
 .achivment-div .flat-icon i {
 	font-size: 40px;
 	font-weight: 700;
+}
+
+.achivment-div-content {
+	height: 87px;
+}
+
+.achivment-div-content h2 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	line-height: 56px;
+	letter-spacing: 0.0125em;
+	text-transform: capitalize;
+	color: #FFFFFF;
+}
+
+.achivment-div-content p {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 30px;
+	letter-spacing: 0.005em;
+	text-transform: capitalize;
+	color: #FFFFFF;
 }
 
 /* teacher section */
